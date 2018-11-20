@@ -100,3 +100,5 @@ fabfile.py
 volumes/
 
 md/
+
+static/
