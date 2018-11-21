@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'haystack',
     'blog',
     'comments',
-    'ckeditor',
+    'mdeditor',
 ]
 
 MIDDLEWARE = [
